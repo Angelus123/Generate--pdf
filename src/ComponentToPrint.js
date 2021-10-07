@@ -2,9 +2,9 @@ import React from 'react';
 export class ComponentToPrint extends React.PureComponent {
     render() {
       return (
-        <div style={{textAlign:'left', width:'60%', margin:'50px auto'}}>
+        <div style={{textAlign:'center', margin:'50px auto'}}>
           <h2>Hello, Generate PDF and print</h2>
-          <table>
+          <table style={{textAlign:'center', margin:'50px auto'}}>
             <thead>
               <th>column 1</th>
               <th>column 2</th>
