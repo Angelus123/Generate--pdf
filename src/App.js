@@ -1,4 +1,4 @@
-import logo from './logo.svg';
+
 import Example from './Example'
 import './App.css';
 

@@ -1,0 +1,6 @@
+Link to get library /package of react to print
+## https://www.npmjs.com/package/react-to-print
+
+install the package
+
+## npm i react-to-print
